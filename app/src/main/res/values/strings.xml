@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">cw_1</string>
+
+
+    <string-array name="Brands">   //set a name to array adapter
+        <item> </item>
+        <item>Ford</item>
+        <item>BMW</item>
+        <item>Mustang</item>
+        <item>Ferrari</item>    // details of the array
+        <item>Lamborgini</item>
+        <item>Rolls Royce</item>
+        <item>Toyota</item>
+        <item>Bugatti</item>
+    </string-array>
+</resources>
